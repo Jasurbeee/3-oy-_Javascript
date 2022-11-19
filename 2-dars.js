@@ -20,23 +20,23 @@
 
 // Yilning istalgan kuni haftaning qaysi kuniga togri keladi
 
-let K = prompt("biror kun kiriting");
+// let K = prompt("biror kun kiriting");
 
-if (K % 7 == 0) {
-  console.log(`Yilning ${K} inchi kuni  Yakshanbaga tog'ri kelmoqda`);
-} else if (K % 7 == 1) {
-  console.log(`Yilning ${K} inchi kuni  Dushanbaga tog'ri kelmoqda`);
-} else if (K % 7 == 2) {
-  console.log(`Yilning ${K} inchi kuni  Seshanbaga tog'ri kelmoqda`);
-} else if (K % 7 == 3) {
-  console.log(`Yilning ${K} inchi kuni  Chorshanbaga tog'ri kelmoqda`);
-} else if (K % 7 == 4) {
-  console.log(`Yilning ${K} inchi kuni  Payshanbaga tog'ri kelmoqda`);
-} else if (K % 7 == 5) {
-  console.log(`Yilning ${K} inchi kuni  Jumaga tog'ri kelmoqda`);
-} else if (K % 7 == 6) {
-  console.log(`Yilning ${K} inchi kuni  Shanbaga tog'ri kelmoqda`);
-}
+// if (K % 7 == 0) {
+//   console.log(`Yilning ${K} inchi kuni  Yakshanbaga tog'ri kelmoqda`);
+// } else if (K % 7 == 1) {
+//   console.log(`Yilning ${K} inchi kuni  Dushanbaga tog'ri kelmoqda`);
+// } else if (K % 7 == 2) {
+//   console.log(`Yilning ${K} inchi kuni  Seshanbaga tog'ri kelmoqda`);
+// } else if (K % 7 == 3) {
+//   console.log(`Yilning ${K} inchi kuni  Chorshanbaga tog'ri kelmoqda`);
+// } else if (K % 7 == 4) {
+//   console.log(`Yilning ${K} inchi kuni  Payshanbaga tog'ri kelmoqda`);
+// } else if (K % 7 == 5) {
+//   console.log(`Yilning ${K} inchi kuni  Jumaga tog'ri kelmoqda`);
+// } else if (K % 7 == 6) {
+//   console.log(`Yilning ${K} inchi kuni  Shanbaga tog'ri kelmoqda`);
+// }
 
 // Sonlar berilgan ulardan nechtasi musbat yoki manfiyligini aniqlovchi kod
 
@@ -80,3 +80,5 @@ if (K % 7 == 0) {
 
 // console.log(musbat.length);
 // console.log(manfiy.length);
+
+// sonning raqamlari yigindisini topish
